@@ -1,0 +1,13 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "mineflayer": "^4.15.0",
+    "mineflayer-auto-eat": "^2.0.0"
+  }
+}
